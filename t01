@@ -1,5 +1,0 @@
-def pr():
-    print("50 \n-42.000002 \nMonty python \nTrue ")
-
-if __name__ == "__main__":
-    pr()
