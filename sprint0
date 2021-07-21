@@ -1,8 +1,0 @@
-a = 5
-c = "uot"
-b = 4.00
-f = False
-print(type(a))
-print(type(c))
-print(type(b))
-print(type(f))
